@@ -8,5 +8,5 @@ Combining between complex modern frontend framework with Vanilla Javascript, sui
 
 ## src/
 ### boilerplate to get started and get to know how the framework works
-
+----------------------------------------------------
 ## Clone the whole repo and start experiminting now
