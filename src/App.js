@@ -11,7 +11,7 @@ Start(async function(){
 /*                      App                        */
 export const AppElement = `
     <div id="App">
-        ${New.TitleFunc("helloooo")}
+        ${New.TitleFunc("hello world")}
         <h1 id="forBtn"></h1>
         <button id="myBtn">Click me</button>
         <button id="myBtnSecond">Click me 2</button>
