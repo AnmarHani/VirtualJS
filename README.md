@@ -9,6 +9,8 @@ Combining between complex modern frontend framework with Vanilla Javascript, sui
 To get started, you need to have node installed, then just simply write:
 
 ``npx create-virtualjs-app <folder_name> ``
+
+
 <br>
 The working directory will be ``src`` and the root element will be ``App.js`` inspired by ``React``.
 
